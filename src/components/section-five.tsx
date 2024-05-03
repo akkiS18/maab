@@ -25,7 +25,7 @@ export const SectionFive = () => {
       <div className="p-2 w-full">
         <div className="bg-white rounded-3xl flex flex-col p-4 h-full cursor-pointer" onClick={toggleMenu}>
           <div className='flex flex-row justify-between'>
-            <span className="title-font font-medium">Bu sohada mening bilimim va tajribam yo’q. Darslarni o’zlashtirishda  menda qiyinchiliklar bo’lmaydimi?</span>
+            <span className="title-font font-medium">Bu sohada mening bilimim va tajribam yoq. Darslarni ozlashtirishda  menda qiyinchiliklar bolmaydimi?</span>
             <div>
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-chevron-down" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
@@ -34,7 +34,7 @@ export const SectionFive = () => {
           </div>
           <div>
             {isOpen && (
-                <p className='text-xs pt-6'>Raqamli ma'lumotlar hajmi o'sishda davom etar ekan, qaror qabul qilish jarayonlari murakkablashmoqda. Aynan shu yerda biznes tahlili (business intelligence) texnologiyalari, ma'lumotlarni qidirish, bashoratli tahlillar va boshqa vositalar juda foydali bo'lishi mumkin.</p>
+                <p className='text-xs pt-6'>Raqamli malumotlar hajmi osishda davom etar ekan, qaror qabul qilish jarayonlari murakkablashmoqda. Aynan shu yerda biznes tahlili (business intelligence) texnologiyalari, malumotlarni qidirish, bashoratli tahlillar va boshqa vositalar juda foydali bolishi mumkin.</p>
             )}
           </div>
         </div>
@@ -54,7 +54,7 @@ export const SectionFive = () => {
       <div className="p-2 w-full">
         <div className="bg-white rounded-3xl flex flex-col p-4 h-full cursor-pointer">
           <div className='flex flex-row justify-between'>
-            <span className="title-font font-medium">Dasturlash foundation kursini bitirib o’quvchi qanday ko’nikmalarga ega bo’lishi kerak?</span>
+            <span className="title-font font-medium">Dasturlash foundation kursini bitirib oquvchi qanday konikmalarga ega bolishi kerak?</span>
             <div>
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-chevron-down" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
@@ -68,7 +68,7 @@ export const SectionFive = () => {
       <div className="p-2 w-full">
         <div className="bg-white rounded-3xl flex flex-col p-4 h-full cursor-pointer">
           <div className='flex flex-row justify-between'>
-            <span className="title-font font-medium">Kurs tugatkandan so’ng sertifikat beriladimi?</span>
+            <span className="title-font font-medium">Kurs tugatkandan song sertifikat beriladimi?</span>
             <div>
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-chevron-down" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
@@ -104,7 +104,7 @@ export const SectionFive = () => {
       <div className="p-2 w-full">
         <div className="bg-white rounded-3xl flex flex-col p-4 h-full cursor-pointer">
           <div className='flex flex-row justify-between'>
-            <span className="title-font font-medium">Kursda o’qish ucun kompyuterim bo’lishi kerakmi?</span>
+            <span className="title-font font-medium">Kursda oqish ucun kompyuterim bolishi kerakmi?</span>
             <div>
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-chevron-down" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
