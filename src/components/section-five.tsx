@@ -17,7 +17,7 @@ export const SectionFive = () => {
     <section className="text-gray-600 body-font bg-gray-100 mx-0">
   <div className="container px-5 py-24 mx-auto">
     <div className="text-center mb-12">
-      <h1 className="sm:text-3xl text-2xl font-semibold text-center title-font uppercase text-gray-900 mb-4">Ko‘p so‘ralgan savollar</h1>
+      <h1 className="sm:text-3xl text-2xl font-semibold text-center title-font uppercase text-gray-900 mb-4">Kop soralgan savollar</h1>
       <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">Прежде чем брать студентов на наши курсы для начинающих, мы проверяем их навыки английского языка, математики и решения задач.</p>
     </div>
     <div className='flex lg:flex-row flex-col md:mx-24'>

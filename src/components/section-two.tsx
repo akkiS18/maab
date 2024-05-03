@@ -11,19 +11,19 @@ export const SectionTwo = () => {
       <div className="xl:w-1/3 md:w-1/2 p-4">
         <div className="border border-blue-300 min-h-48 bg-blue-500 p-6 rounded-2xl">
           <h2 className="text-sm font-bold title-font mb-2">IT sohasiga qiziquvchilar uchun</h2>
-          <p className="leading-relaxed text-sm">BI (Business Intelligence)ni o'rganmoqchi bo'lganlar uchun</p>
+          <p className="leading-relaxed text-sm">BI (Business Intelligence)ni organmoqchi bolganlar uchun</p>
         </div>
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
         <div className="border border-blue-300 min-h-48 bg-blue-500 p-6 rounded-2xl">
-          <h2 className="text-sm font-bold title-font mb-2">Zamonaviy va eng talabgir kasb egasi bo'lishni xohlaganlar uchun.</h2>
-          <p className="leading-relaxed text-sm">Hozirda BI mutaxassislariga bo'lgan talab kundan kunga ortib bormoqda va bu kursni o'rganish orqali yuqori daromadli kasb egasi bo'lishingiz mumkin.</p>
+          <h2 className="text-sm font-bold title-font mb-2">Zamonaviy va eng talabgir kasb egasi bolishni xohlaganlar uchun.</h2>
+          <p className="leading-relaxed text-sm">Hozirda BI mutaxassislariga bolgan talab kundan kunga ortib bormoqda va bu kursni organish orqali yuqori daromadli kasb egasi bolishingiz mumkin.</p>
         </div>
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
         <div className="border border-blue-300 min-h-48 bg-blue-500 p-6 rounded-2xl">
           <h2 className="text-sm font-bold title-font mb-2">Masofadan ishlashni xohlovchilar uchun</h2>
-          <p className="leading-relaxed text-sm">BI mutaxassislari istalgan joydan masofaviy ishlash imkoniyatiga ega. O'zbekistonda turgan xolda Yevropa va Amerika loyihalarida ishlashingiz mumkin.</p>
+          <p className="leading-relaxed text-sm">BI mutaxassislari istalgan joydan masofaviy ishlash imkoniyatiga ega. Ozbekistonda turgan xolda Yevropa va Amerika loyihalarida ishlashingiz mumkin.</p>
         </div>
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
@@ -35,7 +35,7 @@ export const SectionTwo = () => {
       <div className="xl:w-1/3 md:w-1/2 p-4">
         <div className="border border-blue-300 min-h-48 bg-blue-500 p-6 rounded-2xl">
           <h2 className="text-sm font-bold title-font mb-2">Ingliz tili darajasi B2 dan yuqori boʻlganlar uchun.</h2>
-          <p className="leading-relaxed text-sm">Darslar asosan ingliz tilida o'tilganligi uchun o'quvchilardan ingliz tilini bilish talab qilinadi.</p>
+          <p className="leading-relaxed text-sm">Darslar asosan ingliz tilida otilganligi uchun oquvchilardan ingliz tilini bilish talab qilinadi.</p>
         </div>
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">

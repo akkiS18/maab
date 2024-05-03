@@ -30,8 +30,8 @@ export const HomePage = () => {
 
       <div className="mx-10">
         <div className="bg-grant my-12 rounded-3xl flex flex-col items-start justify-center">
-          <h1 className="ml-16 mb-2 text-5xl font-semibold text-white">Grantni qo‘lga kiriting!</h1>
-          <p className="ml-16 mb-4 text-white max-w-[500px]">MAAB Academyda biz eng yaxshi iqtidor egalariga oyiga 3+3 gacha grantlar taqdim etamiz. Agar siz o'zingizni iqtidorli deb hisoblasangiz va ingliz tilini mukammal bilsangiz, kirish imtihonida qatnashing! BI sayohatingizni biz bilan boshlash imkoniyatidan foydalaning!</p>
+          <h1 className="ml-16 mb-2 text-5xl font-semibold text-white">Grantni qolga kiriting!</h1>
+          <p className="ml-16 mb-4 text-white max-w-[500px]">MAAB Academyda biz eng yaxshi iqtidor egalariga oyiga 3+3 gacha grantlar taqdim etamiz. Agar siz ozingizni iqtidorli deb hisoblasangiz va ingliz tilini mukammal bilsangiz, kirish imtihonida qatnashing! BI sayohatingizni biz bilan boshlash imkoniyatidan foydalaning!</p>
           <Button className="ml-16 bg-transparent text-white rounded-3xl px-12" variant={"outline"}>Ro’yhatdan o’ting</Button>
         </div>
       </div>
@@ -42,8 +42,8 @@ export const HomePage = () => {
 <section className="text-gray-600 body-font bg-gray-100 rounded-3xl my-12 mx-10">
   <div className="container px-5 py-24 mx-auto flex flex-wrap items-center">
     <div className="xl:w-2/6 w-full md:pr-16 lg:pr-0 pr-0 text-center">
-      <h1 className="title-font font-medium text-3xl text-gray-900">MAAB Academy bilan BI kelajagingizni oching! Hozir roʻyxatdan oʻting!</h1>
-      <p className="leading-relaxed mt-4">Kirish imtihonimizni topshiring va Grant yutib olish imkoniyatiga ega bo'ling</p>
+      <h1 className="title-font font-medium text-3xl text-gray-900">MAAB Academy bilan BI kelajagingizni oching! Hozir royxatdan oting!</h1>
+      <p className="leading-relaxed mt-4">Kirish imtihonimizni topshiring va Grant yutib olish imkoniyatiga ega boling</p>
     </div>
     <div className="flex md:w-2/6 w-full flex-col mx-auto px-8 space-y-4 items-end">
 <div className="relative flex-grow w-full">
@@ -67,7 +67,7 @@ export const HomePage = () => {
 </div>
 <div className="flex flex-row gap-x-2"> 
   <input type="checkbox" />
-  <p className="text-xs"> Arizani topshirish orqali siz shaxsiy ma'lumotlaringizni “Maxfiylik siyosati”ga muvofiq qayta ishlashga rozilik bildirasiz</p>
+  <p className="text-xs"> Arizani topshirish orqali siz shaxsiy malumotlaringizni Maxfiylik siyosatga muvofiq qayta ishlashga rozilik bildirasiz</p>
 </div>
 </div>
     <div className="flex md:w-2/6 w-full flex-col mx-auto px-8 space-y-4 items-end">
@@ -91,7 +91,7 @@ export const HomePage = () => {
             </Select>
 </div>
 <Button className="rounded-3xl bg-blue-700 hover:bg-blue-500" variant={"default"}>
-  Arizani jo’natish
+  Arizani jonatish
   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-right ml-2" color="white" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
   </svg>
